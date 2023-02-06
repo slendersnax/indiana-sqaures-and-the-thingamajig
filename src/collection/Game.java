@@ -97,7 +97,7 @@ public class Game extends JPanel {
         levelOver = false;
 
         try {
-            player = new Player(10, 0, 0, new File("/home/abi/Documents/Projects_abi/git-no-megasync/indiana-sqaures-and-the-thingamajig/data/sprites/indiana.png"));
+            player = new Player(10, 0, 0, new File("data/sprites/indiana.png"));
             entities = levelController.getLevelEntities(currentLevel, standardWidth, levelWidth, levelHeight, player);
             controller.init(currentLevel);
             repaint();
