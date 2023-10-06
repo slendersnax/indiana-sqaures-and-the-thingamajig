@@ -1,6 +1,6 @@
 # Indiana Squares and The Thingamajig
 
-This is a project I did for a uni class a while back, I intend to work on it a bit and expand it.
+This is a project I did for a uni class a while back, I intend to work on it a bit and maybe expand on the idea (sometime).
 
 ### running the game
 
