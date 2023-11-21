@@ -4,14 +4,4 @@ This is a project I did for a uni class a while back, I intend to work on it a b
 
 ### running the game
 
-in the main folder use 
-```
-javac @sources -d out
-cp -r data/ out/
-```
-to compile and to copy the 'data' folder into 'out', then
-```
-cd out/
-java Main
-```
-to run the program
+For the first setup run the included `build-and-run.sh` file (on Linux). Afterwards you can just run the `run.sh` file.
