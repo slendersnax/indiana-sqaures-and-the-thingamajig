@@ -4,4 +4,10 @@ This is a project I did for a uni class a while back, I intend to work on it a b
 
 ### running the game
 
-For the first setup run the included `build-and-run.sh` file (on Linux). Afterwards you can just run the `run.sh` file.
+#### Linux
+
+For the first setup run the included `build-and-run.sh` file. Afterwards you can just run the `run.sh` file.
+
+#### Windows
+
+- [ ] to-do
