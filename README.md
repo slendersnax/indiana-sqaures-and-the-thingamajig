@@ -16,4 +16,4 @@ Maven support has been added, so it's suggested to simply execute `mvn package` 
 
 ### run
 
-Go to releases, download the latest `.zip` file, extract the contents somewhere, then simply double click on the extracted `indiana-squares-and-the-thingamajig-x.x.jar` file, which is an executable.
+Go to the [Releases](https://github.com/slendersnax/indiana-sqaures-and-the-thingamajig/releases) page, download the latest `.zip` file, extract the contents somewhere, then simply double click on the extracted `indiana-squares-and-the-thingamajig-x.x.jar` file, which is an executable.
