@@ -1,8 +1,8 @@
 // Orban Abel, 621
-package collection.controllers;
+package org.slendersnax.indianasquares.collection.controllers;
 
-import collection.entities.Square;
-import collection.entities.Player;
+import org.slendersnax.indianasquares.collection.entities.Square;
+import org.slendersnax.indianasquares.collection.entities.Player;
 
 import javax.sound.sampled.LineUnavailableException;
 import javax.sound.sampled.UnsupportedAudioFileException;

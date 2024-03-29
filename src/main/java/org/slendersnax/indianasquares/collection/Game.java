@@ -1,10 +1,10 @@
 // Orban Abel, 621
-package collection;
+package org.slendersnax.indianasquares.collection;
 
-import collection.controllers.Control;
-import collection.entities.Square;
-import collection.entities.Player;
-import collection.entities.Level;
+import org.slendersnax.indianasquares.collection.controllers.Control;
+import org.slendersnax.indianasquares.collection.entities.Square;
+import org.slendersnax.indianasquares.collection.entities.Player;
+import org.slendersnax.indianasquares.collection.entities.Level;
 
 import javax.swing.JPanel;
 import java.awt.Color;

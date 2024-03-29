@@ -1,8 +1,8 @@
 // Orban Abel, 621
-package collection;
+package org.slendersnax.indianasquares.collection;
 
-import collection.components.SlrButton;
-import collection.controllers.AudioPlayer;
+import org.slendersnax.indianasquares.collection.components.SlrButton;
+import org.slendersnax.indianasquares.collection.controllers.AudioPlayer;
 
 import javax.swing.JPanel;
 import javax.swing.JFrame;

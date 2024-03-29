@@ -1,5 +1,5 @@
 // Orban Abel, 621
-package collection.controllers;
+package org.slendersnax.indianasquares.collection.controllers;
 
 import javax.sound.sampled.Clip;
 import javax.sound.sampled.AudioInputStream;

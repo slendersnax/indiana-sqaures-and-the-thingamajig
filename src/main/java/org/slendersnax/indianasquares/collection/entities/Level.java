@@ -1,5 +1,5 @@
 // Orban Abel, 621
-package collection.entities;
+package org.slendersnax.indianasquares.collection.entities;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

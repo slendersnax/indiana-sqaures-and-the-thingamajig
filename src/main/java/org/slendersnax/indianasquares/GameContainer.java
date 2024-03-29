@@ -1,9 +1,11 @@
 // Orban Abel, 621
 
+package org.slendersnax.indianasquares;
+
 import javax.swing.JFrame;
 
-import collection.Game;
-import collection.MainMenu;
+import org.slendersnax.indianasquares.collection.Game;
+import org.slendersnax.indianasquares.collection.MainMenu;
 
 public class GameContainer {
     private JFrame mainFrame;

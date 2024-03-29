@@ -1,5 +1,5 @@
 // Orban Abel, 621
-package collection.components;
+package org.slendersnax.indianasquares.collection.components;
 
 import javax.swing.JButton;
 import java.awt.Dimension;

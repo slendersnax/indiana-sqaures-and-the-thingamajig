@@ -1,6 +1,6 @@
 // Orban Abel, 621
 
-package collection.entities;
+package org.slendersnax.indianasquares.collection.entities;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
